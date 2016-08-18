@@ -1,1 +1,3 @@
-this is my my first text file
+this is my my first text file.
+
+here is the first amend.
